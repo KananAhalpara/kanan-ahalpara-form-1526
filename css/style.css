@@ -98,7 +98,7 @@ textarea {
 @media screen and (max-width: 50rem) {
 
     .main {
-        margin: 1rem;
+        margin: auto;
         max-width: 50rem;
     }
 
@@ -178,7 +178,7 @@ textarea {
 @media screen and (max-width: 25rem) {
 
     .main {
-        margin: 1rem;
+        margin: auto;
         max-width: 50rem;
     }
 
